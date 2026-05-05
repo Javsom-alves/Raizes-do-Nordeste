@@ -1,0 +1,10 @@
+# Build
+build/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Outros comuns
+*.log
